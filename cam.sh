@@ -12,10 +12,10 @@ printf "\e[1;92m       ⁪⁬⁮⁮⁮⁮         ⁪⁬⁮⁮⁮⁮   \e[0m\e"
 
 printf "\e[1;92m       ⁪⁬⁮⁮⁮⁮         ⁪⁬⁮⁮⁮⁮   \e[0m\e"
 
-printf "\e[1;92m   𝙃𝘼𝘾𝙆 𝙒𝙀𝘽𝘾𝘼𝙈 📸\e[0m\e   \e[0m\n"
-printf "\e[1;92m   Canal telegram: T.me/HACKGM\e[0m                                 \n"
+printf "\e[1;92m   MmD-WarNing \e[0m\e   \e[0m\n"
+printf "\e[1;92m   Id rubika: @Sarbaz_jangi \e[0m                                 \n"
 
-printf " \e[1;77m v1.0 coded by https://github.com/HACKGM/cam\e[0m \n"
+printf " \e[1;77m v1.0 coded by https://github.com/mmdwarning/hackcam\e[0m \n"
 
 printf "\n"
 
